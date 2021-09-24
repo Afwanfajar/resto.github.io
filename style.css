@@ -134,10 +134,6 @@ html::-webkit-scrollbar-thumb:hover {
   transition: 0.3s;
 }
 
-.card-img-top {
-  height: 200px;
-}
-
 /* menu */
 
 .kata {
